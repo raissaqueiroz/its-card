@@ -1,0 +1,20 @@
+.bg-pantone {background: #00919D;}
+.bg-pantone-gray {background: #8BAA99; }
+.color-pantone {color: #00919D;}
+input.color-pantone {color: #00919D;}
+legend.color-pantone {color: #00919D;}
+.color-black {color: #fff;}
+.overflow {overflow: hidden;}
+button.btn-pantone-red {color: #fff; background-color: #E63422;}
+button.btn-pantone-red:hover {color: #fff; font-size: 102%;}
+button.btn-pantone {color:#fff; background-color:#00919D; border-color:#00919D;}
+button.btn-pantone:hover {color: #fff; font-size: 102%;}
+.body {height: 100vh; overflow: hidden;}
+.h {height: 100vh; overflow-y: scroll;}
+.user {font-size: 400%; border: 5px solid #fff;  border-radius: 50%; padding: 10%;}
+a.btn-pantone-red {color: #fff; background-color: #E63422;}
+a.btn-pantone-red:hover {color: #fff; font-size: 102%;}
+li.active {background-color: #00919D; color: #FFFFFF;}
+.bg-gray {background-color: #F1F1F1;}
+.bg-black {background-color: #2B2E33;}
+
